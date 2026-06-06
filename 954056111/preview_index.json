@@ -1,7 +1,7 @@
 {
   "qq_number": "3258831740",
   "group_number": "954056111",
-  "updated_at": "2026-06-06T06:22:00+00:00",
+  "updated_at": "2026-06-06T16:30:20+00:00",
   "skins": [
     {
       "name": "小观の简约轻松熊",
@@ -20,6 +20,12 @@
       "file": "小观の猫猫虫咖波.bdi",
       "thumb": "小观の猫猫虫咖波.bdi_py_26_light_thumb.png",
       "full": "小观の猫猫虫咖波.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小观の自嘲熊",
+      "file": "小观の自嘲熊.bds",
+      "thumb": "小观の自嘲熊.bds_py_26_light_thumb.png",
+      "full": "小观の自嘲熊.bds_py_26_light_thumb.png"
     }
   ]
 }
