@@ -1,7 +1,7 @@
 {
   "qq_number": "3258831740",
   "group_number": "954056111",
-  "updated_at": "2026-06-09T07:55:15+00:00",
+  "updated_at": "2026-06-09T07:56:03+00:00",
   "skins": [
     {
       "name": "小观の简约轻松熊",
@@ -26,6 +26,12 @@
       "file": "小观の公主绸缎花房.bds",
       "thumb": "小观の公主绸缎花房.bds_py_26_light_thumb.png",
       "full": "小观の公主绸缎花房.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小观の公主绸缎花房",
+      "file": "小观の公主绸缎花房.bdi",
+      "thumb": "小观の公主绸缎花房.bdi_py_26_light_thumb.png",
+      "full": "小观の公主绸缎花房.bdi_py_26_light_thumb.png"
     }
   ]
 }
