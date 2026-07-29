@@ -1,7 +1,7 @@
 {
   "qq_number": "3258831740",
   "group_number": "954056111",
-  "updated_at": "2026-07-29T15:16:16+00:00",
+  "updated_at": "2026-07-29T15:17:29+00:00",
   "skins": [
     {
       "name": "小观の简约轻松熊",
@@ -44,6 +44,12 @@
       "file": "小观の可爱卡通小熊.bdi",
       "thumb": "小观の可爱卡通小熊.bdi_py_26_light_thumb.png",
       "full": "小观の可爱卡通小熊.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "圣诞",
+      "file": "小观の寿司卷日常.bdi",
+      "thumb": "小观の寿司卷日常.bdi_py_26_light_thumb.png",
+      "full": "小观の寿司卷日常.bdi_py_26_light_thumb.png"
     }
   ]
 }
