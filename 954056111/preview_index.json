@@ -1,7 +1,7 @@
 {
   "qq_number": "3258831740",
   "group_number": "954056111",
-  "updated_at": "2026-07-29T15:29:26+00:00",
+  "updated_at": "2026-07-31T15:09:29+00:00",
   "skins": [
     {
       "name": "小观の简约轻松熊",
@@ -68,6 +68,12 @@
       "file": "小观の简约卡通米菲.bdi",
       "thumb": "小观の简约卡通米菲.bdi_py_26_light_thumb.png",
       "full": "小观の简约卡通米菲.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小观の简约么凹猫.bdi",
+      "thumb": "小观の简约么凹猫.bdi_py_26_light_thumb.png",
+      "full": "小观の简约么凹猫.bdi_py_26_light_thumb.png"
     }
   ]
 }
